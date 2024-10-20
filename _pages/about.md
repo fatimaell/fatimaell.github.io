@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin: 0 20px 0 30px; width: 80%; padding: 20px;text-align: justify;">
+<div style="margin: 0 50px 0 30px; width: 80%; padding: 20px;text-align: justify;">
 
 🎓 **Hi, I'm [Your Name] — Welcome to My Portfolio!**
 
