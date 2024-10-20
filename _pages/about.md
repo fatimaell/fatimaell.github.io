@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-<div class="portfolio-content">
-
 🎓 **Hi, I'm Fatima — Welcome to My Portfolio!**
 
 I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions. 
@@ -31,4 +28,3 @@ I believe in the power of data to shape the future, and I’m ready to apply my 
 
 Let’s connect and discover how we can work together to solve real-world challenges with data!
 
-</div>
