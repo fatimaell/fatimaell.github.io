@@ -31,7 +31,7 @@ Throughout my studies and projects, I’ve discovered the power of data to tell 
 - My hands-on **projects** using Python, SQL, and cloud platforms
 - Insights from my experience with **machine learning** and **data engineering**
 - My continuous learning journey, including **Power BI** and **large language models (LLMs)**
----
+
 
 ### 🎯 **Let’s Dive Into the Data!**
 I believe in the power of data to shape the future, and I’m ready to apply my skills to create measurable impact. Explore my projects and see how I turn raw data into meaningful results.
