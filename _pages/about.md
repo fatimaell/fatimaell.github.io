@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi 👋, Welcome to My Data Science Portfolio!"
+title: "Hi 👋, Welcome to My Portfolio!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-🎓 **Hi, I'm [Your Name] — Welcome to My Portfolio!**
+<div style="margin: 0 auto; width: 80%; padding: 20px;">
+🎓 **Hi, I'm Fatima !**
 
 I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions. 💡 With expertise in machine learning, data analysis, and cloud technologies, I’m eager to take on new challenges and make data-driven decisions that transform industries.
 
