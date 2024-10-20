@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 🎓 **Hi, I'm Fatima!**
-
 I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions. 💡 With expertise in machine learning, data analysis, and cloud technologies, I’m eager to take on new challenges and make data-driven decisions that transform industries.
 
 🚀 **Why Data Science?**  
