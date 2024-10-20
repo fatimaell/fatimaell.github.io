@@ -6,8 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="margin-left: 30px; width: calc(100% - 30px); padding: 20px; text-align: justify;">
+<style>
+  .portfolio-content {
+    margin-left: 30px;
+    padding: 20px;
+    text-align: justify;
+  }
+</style>
 
+<div class="portfolio-content">
+<
 🎓 **Hi, I'm Fatima — Welcome to My Portfolio!**
 
 I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions. 
