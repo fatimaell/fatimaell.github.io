@@ -12,7 +12,7 @@ redirect_from:
     margin-right: 0; /* Reduced right margin */
     padding: 20px;
     width: calc(100% - 30px);
-    text-align: left; /* Left-align text */
+    text-align: justify; /* Left-align text */
   }
 </style>
 
@@ -24,7 +24,7 @@ I’m a recent engineering graduate with a degree in **Applied Mathematics**, sp
 
 💡 With expertise in machine learning, data analysis, and cloud technologies, I’m eager to take on new   challenges and make data-driven decisions that transform industries.
 
-🚀 **Why Data Science?**  
+🚀 **Why Data Science?**    
 Throughout my studies and projects, I’ve discovered the power of data to tell stories and unlock insights. Whether it's optimizing business processes, predicting trends, or building intelligent systems, I’m always excited to explore innovative solutions. My recent projects include **energy management optimization** and **employee absenteeism analysis** using advanced machine learning algorithms.
 
 🔍 **What Can You Explore Here?**  
