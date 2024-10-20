@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="margin-left: 30px; width: calc(100% - 30px); padding: 20px;margin-right:0">
-
 🎓 **Hi, I'm Fatima — Welcome to My Portfolio!**
 
 I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions.       
@@ -22,7 +20,7 @@ Throughout my studies and project,I've discovered the power of data to tell stor
 - Insights from my experience with **machine learning** and **data engineering**
 - My continuous learning journey, including **Power BI** and **large language models (LLMs)**
 
----
+
 
 ### 🎯 **Let’s Dive Into the Data!**
 I believe in the power of data to shape the future, and I’m ready to apply my skills to create measurable impact. Explore my projects and see how I turn raw data into meaningful results.
@@ -30,4 +28,3 @@ I believe in the power of data to shape the future, and I’m ready to apply my 
 Let’s connect and discover how we can work together to solve real-world challenges with data!
  
 
-</div>
