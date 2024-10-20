@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin-left:20px; width: 90%; padding: 20px; text-align: justify;">
-
-
 🎓 **Hi, I'm Fatima — Welcome to My Portfolio!**
 
-I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions. 💡 With expertise in machine learning, data analysis, and cloud technologies, I’m eager to take on new challenges and make data-driven decisions that transform industries.
+I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions. 
+
+💡 With expertise in machine learning, data analysis, and cloud technologies, I’m eager to take on new challenges and make data-driven decisions that transform industries.
 
 🚀 **Why Data Science?**  
 Throughout my studies and projects, I’ve discovered the power of data to tell stories and unlock insights. Whether it's optimizing business processes, predicting trends, or building intelligent systems, I’m always excited to explore innovative solutions. My recent projects include **energy management optimization** and **employee absenteeism analysis** using advanced machine learning algorithms.
