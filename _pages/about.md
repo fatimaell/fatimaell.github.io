@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="margin: 0 auto 0 50px; width: 80%; padding: 20px;">
 
 🎓 **Hi, I'm Fatima!**
 
