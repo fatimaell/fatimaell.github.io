@@ -6,13 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<style>
-  .portfolio-content {
-    margin-left: 30px;
-    margin-right: 0px; /* Reduced right margin */
-    padding: 20px;
-  }
-</style>
+
 
 <div class="portfolio-content">
 
