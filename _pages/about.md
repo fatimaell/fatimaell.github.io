@@ -9,7 +9,7 @@ redirect_from:
 <style>
   .portfolio-content {
     margin-left: 30px;
-    margin-right: 10px; /* Reduced right margin */
+    margin-right: 0px; /* Reduced right margin */
     padding: 20px;
   }
 </style>
