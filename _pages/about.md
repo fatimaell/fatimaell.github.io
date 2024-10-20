@@ -11,7 +11,6 @@ redirect_from:
     margin-left: 30px;
     margin-right: 10px; /* Reduced right margin */
     padding: 20px;
-    text-align: justify;
   }
 </style>
 
