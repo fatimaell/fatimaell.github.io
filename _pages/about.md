@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="margin-left: 30px; text-align: justify;">
 
 🎓 **Hi, I'm Fatima — Welcome to My Portfolio!**
 
@@ -27,3 +28,5 @@ Throughout my studies and projects, I’ve discovered the power of data to tell 
 I believe in the power of data to shape the future, and I’m ready to apply my skills to create measurable impact. Explore my projects and see how I turn raw data into meaningful results.
 
 Let’s connect and discover how we can work together to solve real-world challenges with data!
+
+</div>
