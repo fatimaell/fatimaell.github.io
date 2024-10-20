@@ -19,7 +19,8 @@ main:
     url: /portfolio/
         
   - title: "CV"
-    url: /cv/
+    url: /files/cv_fatima.pdf
     
-  #- title: "Guide"
-  #  url: /markdown/
+  - title: "Certifications"
+    url: /markdown/
+ 
