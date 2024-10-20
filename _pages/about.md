@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin-left: 30px; width: calc(100% - 30px); padding: 20px; text-align: justify;">
+<div style="margin-left: 30px; width: 90%; padding: 20px; text-align: justify;">
 
 
-🎓 **Hi, I'm [Your Name] — Welcome to My Portfolio!**
+🎓 **Hi, I'm Fatima — Welcome to My Portfolio!**
 
 I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions. 💡 With expertise in machine learning, data analysis, and cloud technologies, I’m eager to take on new challenges and make data-driven decisions that transform industries.
 
