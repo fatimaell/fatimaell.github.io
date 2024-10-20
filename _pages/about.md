@@ -12,7 +12,7 @@ redirect_from:
     margin-right: 0; /* Reduced right margin */
     padding: 20px;
     width: calc(100% - 30px);
-    text-align: justify; /* Left-align text */
+     /* Left-align text */
   }
 </style>
 
