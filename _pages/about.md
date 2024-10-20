@@ -9,8 +9,9 @@ redirect_from:
 <style>
   .portfolio-content {
     margin-left: 30px;  /* Left margin */
-    margin-right: 10px; /* Reduced right margin */
+    margin-right: 0; /* Reduced right margin */
     padding: 20px;
+    width: calc(100% - 30px);
     text-align: left; /* Left-align text */
   }
 </style>
@@ -30,12 +31,12 @@ Throughout my studies and projects, I’ve discovered the power of data to tell 
 - My hands-on **projects** using Python, SQL, and cloud platforms
 - Insights from my experience with **machine learning** and **data engineering**
 - My continuous learning journey, including **Power BI** and **large language models (LLMs)**
-
+---
 
 ### 🎯 **Let’s Dive Into the Data!**
 I believe in the power of data to shape the future, and I’m ready to apply my skills to create measurable impact. Explore my projects and see how I turn raw data into meaningful results.
 
 Let’s connect and discover how we can work together to solve real-world challenges with data!
  
----
+
 </div>
