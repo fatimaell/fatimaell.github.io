@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin-left: 30px; width: 90%; padding: 20px; text-align: justify;">
+<div style="margin-left:20px; width: 90%; padding: 20px; text-align: justify;">
 
 
 🎓 **Hi, I'm Fatima — Welcome to My Portfolio!**
