@@ -13,6 +13,7 @@ I’m a recent engineering graduate with a degree in **Applied Mathematics**, sp
 
 🚀 **Why Data Science?**    
 Throughout my studies and project,I've discovered the power of data to tell stories and unlock insights.Whether it's optimizing buisness processes,predicting trends,I've discovered the power of data to tell stories and unlock insights.I’m always excited to explore innovative solutions. 
+
 🔍 **What Can You Explore Here?**  
 - My hands-on **projects** using Python, SQL, and cloud platforms
 - Insights from my experience with **machine learning** and **data engineering**

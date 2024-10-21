@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "im.png.jpg"
   name             : "Fatima Zahrae El Allali" 
-  bio              : "**Curious**
-                      **Dedicated**
-                      **Fast-paced learner**💡"
+  bio              : -Curious
+                     -Dedicated
+                     -Fast-paced learner💡"
   location         : "France"
   employer         : "Polytech Nice Sophia"
   uri              : # URL
