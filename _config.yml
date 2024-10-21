@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-FR"
-title                    : "My Portfolio"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "EL ALLALI FATIMA ZAHRAE"
 description              : &description "personal description"
