@@ -1,6 +1,6 @@
 ---
-title: "Topics in Data Science"
-excerpt: "A brief overview of key topics covered in my coursework."
+title: "Main studied subjects"
+excerpt: "A brief overview of key topics covered in my final year coursework."
 collection: coursework
 ---
 
