@@ -273,6 +273,7 @@ defaults:
       share: true
       comment: true
       # _portfolio
+      
   - scope:
       path: ""
       type: coursework
