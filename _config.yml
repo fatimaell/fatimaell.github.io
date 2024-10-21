@@ -272,6 +272,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      # _portfolio
+  - scope:
+      path: ""
+      type: coursework
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
