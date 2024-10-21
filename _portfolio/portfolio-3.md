@@ -4,4 +4,4 @@ excerpt: "Heart Disease Dashboard"
 collection: portfolio
 ---
 
-The code for this project can be found [here](C:\Users\fatim\Desktop\github\fatimaell.github.io\images\Heart attack Factors dashboard.jpg)
+This is my dashboard <br/><img src='/images/dreamstime_m_35224932-1280x640.jpg'>
