@@ -1,11 +1,13 @@
 ---
-permalink: /
-title: "Hi 👋, Welcome to My Data Science Portfolio!"
-author_profile: true
-redirect_from: 
-  - /coursework/
-  - /coursework.html
+title: "Topics in Data Science"
+excerpt: "A brief overview of key topics covered in my coursework."
+collection: coursework
 ---
-🎓 **Hi, I'm Fatima — Welcome to My Portfolio!**
 
-I’m a recent engineering graduate with a degree in **Applied Mathematics**, specializing in **Data Science**. My passion lies in using data to solve complex problems and drive impactful solutions.       
+# Topics in Data Science
+
+- Advanced Machine Learning
+- Big Data (Hadoop - Spark)
+- Deep Learning & Computer Vision
+- Artificial Intelligence Engineering
+- NLP & Optimization Methods
