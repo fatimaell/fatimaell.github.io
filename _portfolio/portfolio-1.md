@@ -1,6 +1,6 @@
 ---
-title: "Classification d’images de Pokémon"
-excerpt: "Déploiement d’un modèle d’apprentissage profond en Python pour la classification de Pokémon à partir d’images.<br/><img src='/images/1_0kCLls2d0AZ5rVZVt-NsFQ.png'>"
+title: "Pokemon images classification"
+excerpt: "Using deep learning to classify Pokemons from images.<br/><img src='/images/1_0kCLls2d0AZ5rVZVt-NsFQ.png'>"
 collection: portfolio
 ---
 
